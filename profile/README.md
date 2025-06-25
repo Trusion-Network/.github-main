@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.trusion.com">
+
     <picture>
     <img alt="trusion logo" src="https://github.com/trusionNetwork/.github/blob/main/assets/trusion.png" width="auto" height="100">
     </picture>
-  </a>
+
 </p>
 
 </br>
